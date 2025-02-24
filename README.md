@@ -26,6 +26,6 @@ The Inventory Management System is a desktop application built using PyQt5, desi
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/Tanishq665/Inventory_app.git
+git clone https://github.com/anandk76/Inventoryapp.git
 cd Inventory_app
 
